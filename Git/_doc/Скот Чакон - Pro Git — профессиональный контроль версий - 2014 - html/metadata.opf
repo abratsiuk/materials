@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">a50ac6f2-6f3a-49bf-86a1-bf6d8568f0be</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7650d91f-16e7-469c-91fe-90619463cffc</dc:identifier>
+        <dc:title>Pro Git — профессиональный контроль версий</dc:title>
+        <dc:creator opf:file-as="Чакон, Скот" opf:role="aut">Скот Чакон</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.6) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-31T23:42:47+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Лицензия: Creative Commons Attribution-Non Commercial-Share Alike 3.0 license&lt;/p&gt;</dc:description>
+        <dc:language>ru</dc:language>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.png" type="cover" title="Обложка"/>
+    </guide>
+</package>
